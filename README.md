@@ -15,5 +15,4 @@ I have organized the content by topic for better tracking:
 ## 🛠 Tech Stack
 
 - **Language:** JavaScript (ES6+)
-- **Runtime:** Node.js v22
 - **Editor:** VS Code
